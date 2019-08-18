@@ -53,6 +53,7 @@ A link to a web page where you say thank you to security researchers who have he
 ##### languages
 
 Type: `Array`
+
 Default: `['en']`
 
 A comma-separated list of Preferred-Language codes that your security team speaks. You may include more than one language.
