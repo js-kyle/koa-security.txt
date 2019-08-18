@@ -1,0 +1,29 @@
+{
+  "name": "koa-security.txt",
+  "version": "1.0.0",
+  "description": "Koa middleware to serve a security.txt file",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://js-kyle@github.com/js-kyle/koa-security.txt.git"
+  },
+  "keywords": [
+    "koa",
+    "security.txt",
+    "middleware"
+  ],
+  "author": "Kyle Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-kyle/koa-security.txt/issues"
+  },
+  "homepage": "https://github.com/js-kyle/koa-security.txt#readme",
+  "devDependencies": {
+    "koa": "^2.7.0",
+    "mocha": "^6.2.0",
+    "supertest": "^4.0.2"
+  }
+}
