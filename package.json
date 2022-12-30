@@ -23,7 +23,7 @@
   "homepage": "https://github.com/js-kyle/koa-security.txt#readme",
   "devDependencies": {
     "koa": "^2.7.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "supertest": "^4.0.2"
   }
 }
